@@ -1,5 +1,4 @@
 # responsive-portfolio-sumeet
-# Responsive Portfolio Website
 
 This is a responsive portfolio website that showcases my skills, projects, and provides information about me. The website is built using HTML, CSS, and JavaScript to create an interactive and visually appealing portfolio.
 
